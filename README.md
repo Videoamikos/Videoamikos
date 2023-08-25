@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Videoamikos
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning how to make minecraft Bedrock Add-ons
